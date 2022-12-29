@@ -1,12 +1,8 @@
-from platform import node, platform
-from urllib import request
-import gql
 from gql import gql, Client
 from gql.transport.aiohttp import AIOHTTPTransport
 import pandas as pd
-import json
 import pygsheets
-import requests
+
 
 # Define transport variable
 transport = AIOHTTPTransport(url="https://api.zora.co/graphql")
