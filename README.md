@@ -1,1 +1,1 @@
-This is an independnet contribution for testing Github functionalty only.
+This is an independnet contribution for testing Github only.
